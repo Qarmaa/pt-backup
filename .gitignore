@@ -1,0 +1,7 @@
+dist/
+release/out/
+release/sign
+__pycache__/
+*.pyc
+.DS_Store
+CLAUDE.md
